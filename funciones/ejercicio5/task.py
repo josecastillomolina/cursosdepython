@@ -4,7 +4,7 @@ def circle_area(radius):
     radius: Es el radio del círculo.
     Devuelve el área del círculo de radio radius.
     """
-# TODO
+    return 3.1415*(radius**2)
 
 
 def cilinder_volume(radius, high):
@@ -14,7 +14,7 @@ def cilinder_volume(radius, high):
     high: Es la altura del cilindro.
     Devuelve el volumen del clindro de radio radius y altura high.
     """
-# TODO
+    return circle_area(radius)*high
 
 
 print(cilinder_volume(3, 5))

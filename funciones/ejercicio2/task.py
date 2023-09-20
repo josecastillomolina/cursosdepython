@@ -4,7 +4,7 @@ def greet(nombre):
     nombre: Nombre del usuario
     Devuelve el saludo ¡Hola nombre!.
     """
-    # TODO
+    return f"¡Hola {nombre}!"
 
 
 print(greet("jorge"))

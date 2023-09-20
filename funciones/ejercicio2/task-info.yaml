@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 166
-    length: 6
+    length: 25
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 166
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: 21F4MhPLbVm9NkjzdRw8jVxv7ojQg/NAzL4tI84pUiI=
   encrypted_text: t4r29Odd4J/6HjCjrt+oTFNR9AP5fHwaHn7CqPW68OeX24CdKabCV7a9SOwnvSjot3Atj8Fa1JARU5CpMcBTSmedXQ49csuXHA/GPs1NTiELluuODnNDQvssxPZkqqj/USa4Mbr6zGGGEfGBF5Ch7HQU1ibPUc3PMMTG8zsIBqB54wzHtUL+2voQ3CXwekD4csraAnHQqF8xyisQl/zB2oPjUVznTq0f4CjSBXI3iRYtzn2s+TsVDytcB9znZ3GK5QrH144vMEoSCZ9LaBabXB+h5AlZ3zjRoKtOYLwY2MtsHV3hDA6SQFETbSKlY3Ka
   learner_created: false
@@ -27,5 +27,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 20 Sep 2023 18:13:43 UTC"
 record: -1

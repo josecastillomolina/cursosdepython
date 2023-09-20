@@ -4,8 +4,9 @@ def square(sample):
     sample: Es una lista de números
     Devuelve una lista con los cuadrados de los números de la lista sample.
     """
-# TODO
-
+    for i in range(len(sample)):
+        sample[i]**=2
+    return sample
 
 print(square([1, 2, 3, 4, 5]))
 # resultado esperado: [1, 4, 9, 16, 25]

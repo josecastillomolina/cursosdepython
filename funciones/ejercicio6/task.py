@@ -4,7 +4,7 @@ def mean(sample):
     sample: Es una lista de números
     Devuelve la media de los números en sample.
     """
-    # TODO
+    return sum(sample)/len(sample)
 
 
 print(mean([1, 2, 3, 4, 5]))

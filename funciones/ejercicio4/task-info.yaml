@@ -4,14 +4,14 @@ files:
   visible: true
   placeholders:
   - offset: 232
-    length: 6
+    length: 32
     placeholder_text: '# TODO'
     initial_state:
       length: 6
       offset: 232
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: t37zY51r5Cz27a1Qy0QyazKw/n90N7m4KRIkDG2cRj5vfeSNuTvpsH/F9hDPLtfV
   encrypted_text: csTi5eT/q96exjPenTxgyN/j5MFaJ2ngSEQ7lRLwUYdENcllo39DpJegq+Iaw/1w29x9fpVoE3K1puZvC1IWLtk7yvTcef9l55idt8J9MH76f5JoqnQPhXfZZzpyAfsVxIPkPMVWkRQw/CPKUY2yFSkGZjfxEzI4oUZjh7+SVpRYI4al74HoCuM+4HtooQd1tJLXZMlPg9hxvwegq/FOspcs5ZuV/eEh+I68k+hDrzDDkhWdW73s7O+LnPJvmJ5tUyorOFowgboL77eDbE7pdRe5n4HRbZVjKLWJZ4vtri8O0fq8ekDGGWT2rRwen4QCAy3+8bs9e7U9ddDGIDhRcdKyY8Ps3IvUK8wcXIrwr/ZEmd22ghNSXkA50CgFZODehXBbFSePHgLLz6OIlISYfVnjdDLlVtP6qJ1dK+W9APDqi9ig55rKF/MnYMl7Jy949W0wWAh6nXnR+Pb10cF37Q==
   learner_created: false
@@ -27,5 +27,8 @@ files:
   visible: false
   encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 20 Sep 2023 18:45:33 UTC"
 record: -1
